@@ -16,7 +16,7 @@ int main()
     cout << "long " << sizeof(n_long) << "bytes" << endl;
     cout << "llong " << sizeof(n_llong) << "bytes" << endl;
     cout << "int " << sizeof(int) << "bytes" << endl;
-
+//change  change
 }
 
 
